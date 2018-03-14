@@ -288,7 +288,7 @@
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-leaf logo-small"></span>
       <h4>GREEN</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <p>company..</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-certificate logo-small"></span>
@@ -398,10 +398,10 @@
           <h1>Intermediate</h1>
         </div>
         <div class="panel-body">
-          <p><strong>50</strong> Lorem</p>
-          <p><strong>25</strong> Ipsum</p>
-          <p><strong>10</strong> Dolor</p>
-          <p><strong>5</strong> Sit</p>
+          <p><strong>50</strong> west</p>
+          <p><strong>25</strong> east</p>
+          <p><strong>10</strong> north</p>
+          <p><strong>5</strong> south</p>
           <p><strong>Endless</strong> Amet</p>
         </div>
         <div class="panel-footer">
@@ -441,7 +441,7 @@
       <p>Leave a message. we'll get back to you as soon as possilble.</p>
       <p><span class="glyphicon glyphicon-map-marker"></span> Newyork, US</p>
       <p><span class="glyphicon glyphicon-phone"></span> +17188202562</p>
-      <p><span class="glyphicon glyphicon-envelope"></span> myemail@something.com</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> shuaibahmed@jamaicagateway.net</p>
     </div>
     <div class="col-sm-7 slideanim">
       <div class="row">
